@@ -1,0 +1,7 @@
+{
+        "server":"0.0.0.0",
+        "server_port":1234,
+        "password":"password",
+        "timeout":600,
+        "method":"aes-256-cfb"
+}
