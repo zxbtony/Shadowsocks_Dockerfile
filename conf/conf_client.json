@@ -2,6 +2,6 @@
     "method": "aes-256-cfb",
     "password": "password",
     "verbose": 0,
-    "server": "vt-cn2.vnet.link",
-    "server_port": 38899
+    "server": "serverIP",
+    "server_port": serverPort
 }
