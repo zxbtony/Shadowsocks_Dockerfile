@@ -12,7 +12,7 @@ Features:
 * Run Shadowsocks Server
 [Configuration File](https://github.com/zxbtony/Shadowsocks_Dockerfile/blob/master/conf/conf.json)
 ```sh
-$ docker run -rm -p 8888:1234 -v ~/conf:/conf zxbtony/shadowsocks_server -c /conf/conf.json 
+$ docker run --rm -p 8888:1234 -v ~/conf:/conf zxbtony/shadowsocks_server -c /conf/conf.json 
 ```
 
 * Run local client and HTTP Proxy
