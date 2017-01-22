@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.4
 MAINTAINER Tony Zhang
 
 #Using USTC mirror
